@@ -1,16 +1,12 @@
 ########################## Banner #############################
 banner:
   enable : true
-  writter : "George Stewart"
-  title : "Four Lost Cities"
+  writter : "Yves Saint"
+  title : "Yves Saint Laurent Biography"
   image : "images/about/book.png"
-  content : "In Four Lost Cities, acclaimed science journalist Annalee Newitz takes readers on an 
-  entertaining and mind-bending adventure into the deep history of urban life. Investigating across 
-  the centuries and around the world, Newitz explores the rise and fall of four ancient cities, each 
-  the center of a sophisticated civilization: the Neolithic site of Çatalhöyük in Central Turkey, the
-  Roman vacation town of Pompeii on Italy's southern coast, the medieval megacity of Angkor in Cambodia, 
-  and the indigenous metropolis Cahokia, which stood beside the Mississippi River where East St. Louis is today."
-  price : "14.99"
+  content : "Yves Saint Laurent was best known as an influential European fashion 
+  designer who impacted fashion in the 1960s to the present day."
+  price : "18.99"
 
 ######################## Book Preview ##########################
 preview:

@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://my-book-shop.vercel.app"
 languageCode = "en-us"
-title = "Four Lost Cities"
+title = "Yves Saint Laurent Biography"
 theme = "influencer-hugo"
 summaryLength = "10"
 paginate = 6
