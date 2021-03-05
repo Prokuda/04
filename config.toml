@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://my-book-shop.vercel.app"
+baseURL = "https://one-greecenews24.vercel.app"
 languageCode = "en-us"
 title = "Yves Saint Laurent Biography"
 theme = "influencer-hugo"

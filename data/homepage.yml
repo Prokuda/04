@@ -18,10 +18,11 @@ preview:
     - image : "images/about/book_page.png"
 
   title : "Look Inside the book"
-  content : "Newitz travels to all four sites and investigates the cutting-edge research in archaeology, 
-  revealing the mix of environmental changes and political turmoil that doomed these ancient settlements. 
-  Tracing the early development of urban planning, Newitz also introduces us to the often anonymous workers — 
-  slaves, women, immigrants, and manual laborers — who built these cities and created monuments that lasted millennia."
+  content : "As a teen, Yves Saint Laurent left Algeria for Paris to work for 
+  designer Christian Dior and gained acclaim for his dress designs. In 1966, he 
+  launched his own fashion labels, where his adaptations of tuxedos for women 
+  garnered him fame. He was the first living designer to receive a solo 
+  exhibition in New York’s Metropolitan Museum of Art in 1983. "
 
   inside:
     # book inside item loop
